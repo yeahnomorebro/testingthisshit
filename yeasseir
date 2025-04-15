@@ -5,8 +5,8 @@ local args = {
         ">\5;0\n6b\5aY6Vr8 \18TW\\$tnB.x\17Zf\251C/9\"\21I<\25g\11\19\29okejbA)<\3j\23tgrnn0\24" ..
         "jm,#T\2517Ld0g=8Hb,.-\4`9S m\n0$\28.\n95?=\29dIrmL8\8\26$\15=\28%?)n@&J\tY\31jdYq3",
     [3] = 10.5,
-    [4] = game:GetService("Players"):WaitForChild("VerifiedNoob01").Character.Humanoid,
-    [5] = game:GetService("Players").LocalPlayer.Character.Fists.Handle.jabback3,
+    [4] = game:GetService("Players"):WaitForChild("agenialadan").Character.Humanoid,
+    [5] = game:GetService("Players").LocalPlayer:WaitForChild("jabback2"),
     [6] = 6.5,
     [7] = true,
     [8] = "none",

@@ -1,0 +1,16 @@
+local args = {
+    [1] = "Sounds",
+    [2] = " V\4]\22j\"!\23d\19:L,C[/ra4H3\26k\31\26J;c\26\26\82N%xZiu\5\25o<<2w_ dnf\29W!\t\19Mi:`tEcCfHJ&!Z\22" ..
+        "2\17\17\\OKmu\22XB71B4%l\2\21\16$9\n[bFZfjeOOGN 0r+-\27f\18n\\rd\66u!\27;<.\8)c\6]&\4?" ..
+        ">\5;0\n6b\5aY6Vr8 \18TW\\$tnB.x\17Zf\251C/9\"\21I<\25g\11\19\29okejbA)<\3j\23tgrnn0\24" ..
+        "jm,#T\2517Ld0g=8Hb,.-\4`9S m\n0$\28.\n95?=\29dIrmL8\8\26$\15=\28%?)n@&J\tY\31jdYq3",
+    [3] = 10.5,
+    [4] = game:GetService("Players"):WaitForChild("VerifiedNoob01").Character.Humanoid,
+    [5] = game:GetService("Players").LocalPlayer.Character.Fists.Handle.jabback3,
+    [6] = 6.5,
+    [7] = true,
+    [8] = "none",
+    [9] = "killed by agenialadan"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("_REM"):FireServer(unpack(args))
